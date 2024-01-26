@@ -1,3 +1,12 @@
+### Extensions
+- https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
+- https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+- https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja
+
+
+### Code
+
+```json
 {
   "workbench.startupEditor": "newUntitledFile",
   "editor.fontSize": 12,
@@ -247,3 +256,5 @@
   "editor.formatOnSave": true,
   "window.zoomLevel": -0.5
 }
+
+```
